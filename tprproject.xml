@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><tprproject>
+    <date>31-05-23 16:13</date>
+    <uid>p1887228828f</uid>
+    <ver>1</ver>
+    <workitems/>
+    <paths>
+        <reports>reports</reports>
+        <templates>templates</templates>
+        <schedules>schedules</schedules>
+        <stype1>tpr</stype1>
+        <stype2>src</stype2>
+        <sotype2>classes</sotype2>
+    </paths>
+    <tver>7.0.2-20230224.1</tver>
+    <lastmod>31-05-23 16:49</lastmod>
+    <editors>tpr\test.tpr;tpr\branch-test.tpr</editors>
+</tprproject>
