@@ -4,13 +4,10 @@
 
 # Git Demo, try #2
 # Git Demo, GitHub try #2
-<<<<<<< HEAD
 # Local change
 # GitHub comment
 # Push test
 # Conflict testing
-=======
 # Local 
 # GitHub 
 # Conflict 
->>>>>>> branch 'master' of https://github.com/rpes/tplan-robot-plugin.git
